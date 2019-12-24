@@ -13,7 +13,7 @@ namespace library
         public double CalculateTotal(double ammount, string code)
         {
             var desc = this._provider.GetDiscountByCode(code);
-            return (ammount-(ammount*desc/100));
+            return (ammount-(ammount*desc/100)); 
         }
     }
 }
