@@ -1,5 +1,18 @@
-library/bin
-library/obj
-test-library/bin
-test-library/obj
 
+library/obj/Debug/netstandard2.0/library.dll
+test-library/bin/Debug/netcoreapp2.1/test-library.dll
+library/bin/Debug/netstandard2.0/library.dll
+library/bin/Debug/netstandard2.0/library.pdb
+test-library/bin/Debug/netcoreapp2.1/library.dll
+test-library/bin/Debug/netcoreapp2.1/library.pdb
+test-library/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+test-library/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp
+test-library/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+test-library/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+test-library/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+test-library/bin/Debug/netcoreapp2.1/test-library.deps.json
+test-library/bin/Debug/netcoreapp2.1/test-library.pdb
+test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.dev.json
+test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.json
+test-library/obj/Debug/netcoreapp2.1/test-library.dll
+test-library/obj/Debug/netcoreapp2.1/test-library.pdb
